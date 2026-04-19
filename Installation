@@ -1,5 +1,5 @@
 # Clone repository
-git clone https://github.com/yourusername/integrator-neuron.git
+git clone https://github.com/bicheng2028/integrator-neuron.git
 cd integrator-neuron
 
 # Install dependencies
