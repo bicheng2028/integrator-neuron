@@ -1,0 +1,9 @@
+# Clone repository
+git clone https://github.com/yourusername/integrator-neuron.git
+cd integrator-neuron
+
+# Install dependencies
+pip install -r requirements.txt
+
+# (Optional) Install as package
+pip install -e .
